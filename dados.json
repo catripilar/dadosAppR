@@ -86,6 +86,7 @@
      "schuts": [
       {
         "id": 1,
+        "nota": "4.3",
         "nome": "Tênis Nike Joyride Run Flyknit",
         "texto":"O Nike Joyride Run Flyknit foi projetado para facilitar a corrida e dar um dia de descanso às suas pernas.",
         "valor":"R$ 190,90",
@@ -93,6 +94,7 @@
       },
       {
         "id": 2,
+        "nota": "4.8",
         "nome": "nike kyrie jet black 6",
         "texto":"Projetado para o jogo criativo e imprevisível de Kyrie Irving, o Kyrie 6 é focado no conforto, controle e retorno de energia.",
         "valor":"R$ 290,90",
@@ -100,6 +102,7 @@
       },
       {
         "id": 3,
+        "nota": "4.5",
         "nome": "adidas sneakers zwart met goud",
         "texto":"Este tênis feminino da adidas Originals tem cano em couro sintético. O modelo tem fecho com cordões e sola plana.",
         "valor":"R$ 210,90",
@@ -107,6 +110,7 @@
       },
       {
         "id": 4,
+        "nota": "4.9",
         "nome": "adidas Originals X BAPE NMD",
         "texto":"ADIDAS ORIGINALS NMD têm sido alguns dos modelos mais cobiçados do planeta.",
         "valor":"R$ 390,90",
@@ -114,6 +118,7 @@
       },
       {
         "id": 5,
+        "nota": "4.8",
         "nome": "Adidas NMD_R1",
         "texto":"Calçado moderno com cabedal de malha,Otimizado e moderno.",
         "valor":"R$ 239,90",
@@ -121,6 +126,7 @@
       },
       {
         "id": 6,
+        "nota": "4.4",
         "nome": "adidas 'Barricade 2016' Tennis Shoe",
         "texto":"Leve TPU e malha superior oferecem respirabilidade máxima e conforto ideal.",
         "valor":"R$ 320,90",
