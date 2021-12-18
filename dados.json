@@ -86,37 +86,43 @@
      "schuts": [
       {
         "id": 1,
-        "nome": "Nike 1",
+        "nome": "Tênis Nike Joyride Run Flyknit",
+        "texto":"O Nike Joyride Run Flyknit foi projetado para facilitar a corrida e dar um dia de descanso às suas pernas.",
         "valor":"R$ 190,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/1.png"
       },
       {
         "id": 2,
-        "nome": "Nike 2",
+        "nome": "nike kyrie jet black 6",
+        "texto":"Projetado para o jogo criativo e imprevisível de Kyrie Irving, o Kyrie 6 é focado no conforto, controle e retorno de energia.",
         "valor":"R$ 290,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/2.png"
       },
       {
         "id": 3,
-        "nome": "Nike 3",
+        "nome": "adidas sneakers zwart met goud",
+        "texto":"Este tênis feminino da adidas Originals tem cano em couro sintético. O modelo tem fecho com cordões e sola plana.",
         "valor":"R$ 210,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/3.png"
       },
       {
         "id": 4,
         "nome": "Nike 4",
+        "texto":"o Nike Air Max Dia proporciona um look elevado, uma estética arejada e um formato elegante.",
         "valor":"R$ 390,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/4.png"
       },
       {
         "id": 5,
         "nome": "Nike 5",
+        "texto":"o Nike Air Max Dia proporciona um look elevado, uma estética arejada e um formato elegante.",
         "valor":"R$ 239,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/5.png"
       },
       {
         "id": 6,
         "nome": "Nike 6",
+        "texto":"o Nike Air Max Dia proporciona um look elevado, uma estética arejada e um formato elegante.",
         "valor":"R$ 320,90",
         "img_url": "https://catripilar.github.io/dadosAppR/assets/6.png"
       }
